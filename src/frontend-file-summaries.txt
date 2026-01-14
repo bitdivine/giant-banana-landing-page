@@ -1,0 +1,4 @@
+{
+  "frontend/src/App.tsx": "Main application component that displays a centered, full-width giant banana image with a clean gradient background and no additional UI elements.",
+  "frontend/src/index.css": "Global styles with OKLCH color system featuring warm yellow/banana-inspired tones for both light and dark modes to complement the banana theme."
+}
